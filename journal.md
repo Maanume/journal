@@ -13,3 +13,7 @@ Hours:
 2. Worked through Learn Python the Hard Way, exercises 1-6
 3. Researched the different styling available with Markdown
 4. Practiced Markdown styling 
+
+## Week 3
+1. Worked through Python Programming/Creating Python Programs
+Additional hours to be added. 
