@@ -15,5 +15,5 @@ Hours:
 4. Practiced Markdown styling 
 
 ## Week 3
-1. Worked through Python Programming/Creating Python Programs
+1. Worked through Python Programming/Creating Python Programs <br/>
 Additional hours to be added. 
