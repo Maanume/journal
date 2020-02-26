@@ -15,5 +15,11 @@ Hours:
 4. Practiced Markdown styling 
 
 ## Week 3
-1. Worked through Python Programming/Creating Python Programs <br/>
-Additional hours to be added. 
+Hours:
+1. Worked through Python Programming/Creating Python Programs 
+2. Practiced running python scripts in the command line, mostly defining variables
+3. Practiced creating and running loops, switched to using for dog in dogs
+
+## Week 4
+1. Looked into the other Python resources mentioned by Patrick, like Python the hard way, will continue to use <b/>
+Additional hours to be added
