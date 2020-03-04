@@ -21,5 +21,12 @@ Hours:
 3. Practiced creating and running loops, switched to using for dog in dogs
 
 ## Week 4
-1. Looked into the other Python resources mentioned by Patrick, like Python the hard way, will continue to use <b/>
-Additional hours to be added
+Hours:
+1. Looked into the other Python resources mentioned by Patrick, like Python the hard way, will continue to use 
+2. Learn Python the Hard Way, exercises 7-10, practiced formatter.format multiple times
+3. Learn Python the Hard Way, expercises 11-13, practiced using input to ask different questions for individual to enter an answer
+4. Practice writing loops with input with in them, like how we did with the weather example. I used fruits, asking what is your favorite fruit?
+
+## Week 5
+Hours:
+**Hours to be added**
