@@ -56,4 +56,14 @@ Hours:
 1. on wordpress site, worked on reorganizing my widgets. Added twitter and instagram feeds to right side of the page, along with access to blog and put everything else on the bottom.
 2. Worked through excercises 21-23 in Learn Python the Hard Way.
 3. Used git and github to back up some files to refresh my command line and git skills.
-4. Hour to be added.
+
+## Week 10 
+1. Worked through excercises 24-27 in Learn Python the Hard Way.
+2. Researched text cleaning and analysis. I am interesting in clean some text data and running some analysis, maybe for my final project? There are four different text files I wish to clean and analyze so maybe it will be better to only do some and not all of them. There are some stopwords I want to remove, along with punctuation. I need to research a little more on when data is clean enough without being overly manipulated.
+3. Added two pages to my wordpress site, realized one page had added text that shouldn't be appearing, so fixed that. 
+4. 
+
+## Week 11
+1. Worked through excercises 28-30 in Learn Python the Hard Way.
+2. Read through Creating Web APIs with Python and Flask on The Programming Historian.
+Hours 3 and 4 to be added.
