@@ -58,12 +58,32 @@ Hours:
 3. Used git and github to back up some files to refresh my command line and git skills.
 
 ## Week 10 
-1. Worked through excercises 24-27 in Learn Python the Hard Way.
+Hours:
+1. Worked through exercises 24-27 in Learn Python the Hard Way.
 2. Researched text cleaning and analysis. I am interesting in clean some text data and running some analysis, maybe for my final project? There are four different text files I wish to clean and analyze so maybe it will be better to only do some and not all of them. There are some stopwords I want to remove, along with punctuation. I need to research a little more on when data is clean enough without being overly manipulated.
 3. Added two pages to my wordpress site, realized one page had added text that shouldn't be appearing, so fixed that. 
-4. 
 
 ## Week 11
-1. Worked through excercises 28-30 in Learn Python the Hard Way.
+Hours:
+1. Worked through exercises 28-30 in Learn Python the Hard Way.
 2. Read through Creating Web APIs with Python and Flask on The Programming Historian.
-Hours 3 and 4 to be added.
+3. Worked through exercises 31-33 in Learn Python the Hard Way.
+
+## Week 12
+Hours:
+1. Worked through exercises 34-36 in Learn Python the Hard Way.
+2. Fixed my code for the run.py, wasn't working so did some trouble shooting after class ended.
+3. Needed to embed a Tableau Public visualization in my wordpress page but couldn't get it to work so did some trouble-shooting.
+4. By this hour, still couldn't get the embed to work still trouble-shooting and searching the internet for help.
+
+## Week 13
+Hours:
+1. I got the embed to work but needed to get rid of the sidebar on my wordpress site. My theme didn't come with the ability to remove the sidebar. I found a plugin adds full-width template to the available templates for pages.
+2. I added my embedded viz to the full-width template but the viz was aligned to the left-side and I couldn't figure out how to center it. After some googling, I found that I could add columns and change there size to get the viz centered. 
+3. Worked through exercises 37-39 in Learn Python the Hard Way.
+4. Worked to clean up my wordpress site, the menu was going to some empty pages so got rid of those and added a new destination.
+
+## Week 14
+Hours:
+1. Worked through exercises 40-42 in Learn Python the Hard Way.
+- Additional hours to come.
